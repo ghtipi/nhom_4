@@ -49,10 +49,10 @@ B. Cài đặt Git:
 
 2. Quản lý Repository:
 
-A. Tạo Repository (chỉ 1 lần duy nhất bởi leader):
+A. Tạo Repository :
 - Nhấn nút "+" góc trên bên phải GitHub → "New repository"
 - Nhập tên repo: nhom_4
-- Chọn Private (hoặc Public nếu không có thông tin nhạy cảm)
+- Chọn  Public 
 - Nhấn "Create repository"
 
 B. Mời thành viên:
