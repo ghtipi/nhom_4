@@ -31,8 +31,6 @@ III. TÍNH NĂNG CHÍNH
 IV. YÊU CẦU HỆ THỐNG
 ----------------------
 - Trình duyệt hiện đại (Chrome, Firefox, Edge, Brave, ...)
-- Node.js + npm (nếu dự án dùng React)
-- Git
 
 V. HƯỚNG DẪN SỬ DỤNG GITHUB
 -----------------------------
