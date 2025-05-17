@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Cơm gà",
+    "price": 30000,
+    "category_id": "1",
+    "description": "Cơm gà chiên giòn",
+    "canteen_id": "ct01"
+  },
+  {
+    "name": "Bún bò Huế",
+    "price": 35000,
+    "category_id": "2",
+    "description": "Bún bò cay, nước đậm đà",
+    "canteen_id": "ct02"
+  }
+]

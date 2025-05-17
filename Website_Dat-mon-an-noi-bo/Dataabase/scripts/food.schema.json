@@ -1,0 +1,12 @@
+{
+  "title": "Food",
+  "type": "object",
+  "properties": {
+    "name": { "type": "string" },
+    "price": { "type": "number" },
+    "category_id": { "type": "string" },
+    "description": { "type": "string" },
+    "canteen_id": { "type": "string" }
+  },
+  "required": ["name", "price", "category_id"]
+}
