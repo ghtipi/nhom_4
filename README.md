@@ -1,4 +1,4 @@
-# Food Ordering System
+# Website đặt thức ăn nội bộ
 
 Website đặt thức ăn nội bộ cho căn tin/KTX, hỗ trợ sinh viên/nhân viên đặt món, căn tin quản lý thực đơn và đơn hàng, quản trị viên xem báo cáo và gửi thông báo. Dự án được phát triển theo mô hình **Waterfall** bởi Nhóm 4, với giao diện mobile-first và ngôn ngữ tiếng Việt.
 
